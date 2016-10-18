@@ -1,0 +1,2 @@
+# static
+Sortep static host.
